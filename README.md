@@ -1,37 +1,82 @@
-# Hi there, I'm Bassam Al Ukadi 👋
+<h1 align="center">
+  Hi, I'm Bassam Al Ukadi 👋
+</h1>
 
-### 🚀 The RoadMap to Full Stack Development | AI and MObıle Development
-I am a dedicated Software Student student currently on an bachelor of software engineering at FIRAT UNIVERSITY . My goal is to bridge the gap between traditional web development and modern Mobile Application .
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer+in+Progress;Mobile+App+Developer+(Future);AI+and+Software+Engineering+Enthusiast" />
+</p>
 
----
-
-### 🛠️ Tech Stack & Skills
-- **Languages:** C#, JavaScript, Java
-- **Web Development:** HTML5, CSS3, Web Design & Programming
-- **Core Concepts:** Data Structures, Software Requirements & Analysis, Functional Programming
-- **Platforms:** Low-Code Web & Mobile App Development
-- **Upcoming Focus:** Data Analysis
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header"/>
+</p>
 
 ---
 
-### 🎓 University & Learning
-- 🏫 **Degree:** software engineering / Firat University (Lisans)
-- 📚 **Current Coursework:** - Web Design and Programming
-  - Functional Programming
-  - Data Structures
-  - Software Requirements and Analysis
-  - Low-Code Web & Mobile Application Development
+## 💫 About Me
+
+> 🎓 Software Engineering student – Fırat University  
+> 💻 Passionate about Full Stack Development and Mobile Applications  
+> 🚀 Currently building strong foundations in Web and Software Development  
+> 📱 Future focus: Mobile Development and AI Integration  
+> 📚 Always learning and improving coding and problem-solving skills  
+> 🎯 Goal: Become a professional Full Stack & Mobile Developer  
 
 ---
 
-### 🎯 My 6-Month Roadmap
-- [ ] Master Full Stack Web Development (Web & Mobile)
-- [ ] Build a portfolio of "Strong Junior" level projects
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/besam-al-ukad-4a19023a5">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
-### 📫 How to reach me:
-- 💼 LinkedIn https://www.linkedin.com/in/besam-al-ukad-4a19023a5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDK7gqqTUS8CTirb%2BqwFymw%3D%3D
-- 📧 Email besamokde@icloud.com
+## 💻 Tech Stack
 
-*"Consistency is key—balancing work, studies, and code every single day."*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,cs,html,css,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Profile Summary
+
+![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=besam11alukadi&theme=radical)
+
+---
+
+## 🎯 My Current Roadmap
+
+- ✅ Learn Programming Fundamentals
+- 🔄 Master Full Stack Web Development
+- 🔄 Build Strong Portfolio Projects
+- 🔄 Learn Mobile Application Development
+- 🔄 Learn AI Integration with Applications
+
+---
+
+## 🎓 Education
+
+🏫 Software Engineering – Fırat University  
+📚 Key Subjects:
+- Data Structures
+- Web Design and Programming
+- Functional Programming
+- Software Requirements and Analysis
+- Low-Code Web & Mobile Development
+
+---
+
+## 📫 Contact Me
+
+📧 Email: besamokde@icloud.com  
+💼 LinkedIn:  
+https://www.linkedin.com/in/besam-al-ukad-4a19023a5
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer"/>
+</p>
